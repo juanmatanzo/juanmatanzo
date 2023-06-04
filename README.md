@@ -1,18 +1,40 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Juan Cruz Matanzo</h1>
+<h3 align="center">A Full Stack Developer from Argentina</h3>
+
+- 🔭 I’m a Full Stack Developer recently graduated from the platform <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>.
+
+- 🌱 I’m currently learning **Goland and Angular**
+
+- 👯 I’m looking to collaborate on differents project
+
+- 💬 Ask me about **React or Redux**
+
+- 📫 How to reach me **jcmatanzo@gmail.com**
+
+- 📄 Know about my experiences: <p>I currently work doing administrative and logistical tasks for a company that transports vegetables throughout the country. </p>
+
+- ⚡ I'm looking to specialize on **frontend**
+
+- 🌱 Languages that I know: **English: Upper Intermediate** and **German: upper beginner**
+
+- 📫 How to reach me **jcmatanzo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/jcmatanzo98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcmatanzo98" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/juan cruz matanzo" target="blank">
+  <a href="https://linkedin.com/in/juan-cruz-matanzo-876a60225" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan cruz matanzo" height="30" width="40" />
   </a>
-  <a href="https://fb.com/juan matanzo" target="blank">
+  <a href="https://fb.com/juan.matanzo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan matanzo" height="30" width="40" />
   </a>
   <a href="https://instagram.com/juan_matanzo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan_matanzo" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/Juan Cruz Matanzo#8244" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juan Cruz Matanzo#8244" height="30" width="40" />
   </a>
 </p>
 
@@ -22,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -60,4 +82,8 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmatanzo&show_icons=true&locale=en" alt="juanmatanzo" />
 </p>
