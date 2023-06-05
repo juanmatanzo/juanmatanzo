@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React or Redux**
 
-- 📫 How to reach me **jcmatanzo@gmail.com**
-
 - 📄 Know about my experiences: <p>I currently work doing administrative and logistical tasks for a company that transports vegetables throughout the country. </p>
 
 - ⚡ I'm looking to specialize on **frontend**
@@ -18,7 +16,7 @@
 - 🌱 Languages that I know: **English: Upper Intermediate** and **German: upper beginner**
 
 - 📫 How to reach me **jcmatanzo@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/jcmatanzo98" target="blank">
@@ -57,9 +55,6 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
