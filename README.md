@@ -16,7 +16,8 @@
 - 🌱 Languages that I know: **English: Upper Intermediate** and **German: upper beginner**
 
 - 📫 How to reach me **jcmatanzo@gmail.com**
-- 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/jcmatanzo98" target="blank">
